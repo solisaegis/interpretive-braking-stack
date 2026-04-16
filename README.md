@@ -95,7 +95,7 @@ https://archive.org/details/closing-the-braking-gap-interpretive-clarifications-
 https://zenodo.org/records/19617150  
 
 **GitHub (file):**  
-(Add once uploaded)  
+https://github.com/solisaegis/interpretive-braking-stack/blob/main/closing-the-braking-gap/Closing%20the%20Braking%20Gap%20%E2%80%94%20Interpretive%20Clarifications%20on%20Non-Opt-In%20Failure%20Modes%20(v1).pdf  
 
 **SHA-256:**  
 e02f9281a02651559f1d92db233834b44d891a3f326ba8ee4062e3c5b02088df  
